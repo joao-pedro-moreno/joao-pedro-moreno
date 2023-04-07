@@ -1,10 +1,11 @@
+<img src="https://i.imgur.com/gqMDMlV.png">
+
 Hi 👋 My name is João Pedro Moreno
 ==========================
 
-Front-End Web Developer
+Full Stack Web Developer
 -----------------------------
-
-I'm a 19 year old developer. I love to code and figure it out how to solve deep problems using Javascript.
+I am João Pedro Moreno, a full-stack web developer passionate about JavaScript. I work on both front-end and back-end, creating efficient and elegant solutions for various demands. I strive to stay up-to-date with the latest trends and technologies in the market, and I care deeply about understanding the users' needs. I feel fulfilled when I contribute to making the world a better place through technology.
 
 I am also a student at [Estácio](https://estacio.br), studying [Systems Analysis and Development](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas).
 
