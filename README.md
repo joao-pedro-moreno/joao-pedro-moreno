@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/gqMDMlV.png">
+<img src="https://i.imgur.com/7KsTyYq.png">
 
 Hi 👋 My name is João Pedro Moreno
 ==========================
