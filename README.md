@@ -3,7 +3,7 @@
 Hi 👋 My name is João Pedro Moreno
 ==========================
 
-Full Stack Web Developer
+Front-End Web Developer
 -----------------------------
 I am João Pedro Moreno, a full-stack web developer passionate about JavaScript. I work on both front-end and back-end, creating efficient and elegant solutions for various demands. I strive to stay up-to-date with the latest trends and technologies in the market, and I care deeply about understanding the users' needs. I feel fulfilled when I contribute to making the world a better place through technology.
 
