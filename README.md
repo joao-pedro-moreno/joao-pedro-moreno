@@ -1,36 +1,85 @@
-<img src="https://i.imgur.com/7KsTyYq.png">
+# Hi 👋 I'm João Pedro Moreno
 
-Hi 👋 My name is João Pedro Moreno
-==========================
+### Software Engineer focused on building performant and scalable systems
 
-Front-End Web Developer
------------------------------
-I am João Pedro Moreno, a full-stack web developer passionate about JavaScript. I work on both front-end and back-end, creating efficient and elegant solutions for various demands. I strive to stay up-to-date with the latest trends and technologies in the market, and I care deeply about understanding the users' needs. I feel fulfilled when I contribute to making the world a better place through technology.
+---
 
-I am also a student at [Estácio](https://estacio.br), studying [Systems Analysis and Development](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas).
+I started programming at 14, driven by curiosity and the desire to understand how things work behind the scenes.
 
-* 🌍  I'm based in Minas Gerais, Brazil
-* ✉️  You can contact me at [devmoreno2003@gmail.com](mailto:devmoreno2003@gmail.com)
-* 🧠  I'm learning Advanced Javascript
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love playing instruments and my favorite is guitar
+Before even entering the job market, I was already building scripts and systems for games, which led me to work on a large-scale FiveM server — handling real-time systems, performance challenges and thousands of active users.
 
-### Skills
+Today, I work as a Full Stack Developer, mainly focused on **React, JavaScript and Java**, building and evolving complex systems used in real-world scenarios.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+I enjoy working on **challenging problems**, especially those involving performance, scalability or systems that “no one wants to touch”.  
+Whether it's building something from scratch or improving legacy code, I like diving deep and finding efficient, long-term solutions.
 
-### Socials
+---
 
-<p align="left"></a> <a href="https://www.github.com/joao-pedro-moreno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joao-pedro-moreno/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+## 🚀 What I care about
 
-### CV
+- Writing clean, maintainable and scalable code  
+- Solving complex problems (especially performance-related)  
+- Understanding systems beyond just the code  
+- Continuous learning and technical growth  
+- Building things that actually get used in real life  
 
-[CV João Pedro Moreno](http://devs.nexusnx.com/moreno/curriculo/CV_João_Pedro_Moreno.pdf)
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Core
+JavaScript • TypeScript • Java • PHP • SQL • Lua  
+
+### ⚛️ Front-end
+React • Redux • Context API • Styled Components • Material UI • jQuery • Vite  
+
+### 🔧 Back-end & Infra
+Java • Node.js • Fastify • WebSocket • MySQL • Google Cloud • Docker  
+
+### ⚙️ Tools & Workflow
+Git • GitHub • GitFlow • Jira • Confluence • Figma • NPM • Yarn  
+
+---
+
+## 🧩 Featured Projects
+
+### 🎮 backend-hand-duel
+Real-time online Rock-Paper-Scissors game  
+Built with Node.js, Fastify and WebSockets, focusing on low-latency communication and real-time state handling.
+
+### 🎯 GameCenter
+Platform to track and rate games  
+Built with React, TypeScript and Firebase, focused on user experience and data management.
+
+### 🧟 FiveM Server (Project Z RP)
+Worked on a large-scale multiplayer server with thousands of users  
+Handled real-time systems, performance optimization and custom game mechanics using Lua, JS and SQL.
+
+---
+
+## 🌱 Currently
+
+- Deepening my knowledge in the **Java ecosystem**
+- Improving my skills in **performance and system design**
+- Always looking for better ways to solve hard problems
+
+---
+
+## 🎸 Beyond code
+
+When I'm not coding, you'll probably find me:
+- Playing guitar or acoustic guitar 🎸  
+- Driving around 🚗  
+- Swimming 🏊  
+- Spending time with my girlfriend and family  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **devmoreno2003@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/joao-pedro-moreno/
+
+---
+
+> “I like solving problems that look impossible at first.”
