@@ -75,6 +75,14 @@ When I'm not coding, you'll probably find me:
 
 ---
 
+## 🏆 Achievements
+
+- 🥇 Gold Medal — Brazilian Astronomy and Astronautics Olympiad (OBA 2018)
+- 🥈 Silver Medal — Brazilian Physics Olympiad (OBF 2019)
+- 🥉 Bronze Medal — Brazilian Astronomy and Astronautics Olympiad (OBA 2020)
+
+---
+
 ## 📫 Contact
 
 - 📧 Email: **devmoreno2003@gmail.com**
